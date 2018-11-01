@@ -1,0 +1,12 @@
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\MyQQ\MyQQ\bin\Debug\MyQQ.exe.config
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\MyQQ\MyQQ\bin\Debug\MyQQ.exe
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\MyQQ\MyQQ\bin\Debug\MyQQ.pdb
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\MyQQ\MyQQ\obj\Debug\MyQQ.Frm_Login.resources
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\MyQQ\MyQQ\obj\Debug\MyQQ.Properties.Resources.resources
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\MyQQ\MyQQ\obj\Debug\MyQQ.csproj.GenerateResource.cache
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\MyQQ\MyQQ\obj\Debug\MyQQ.csproj.CoreCompileInputs.cache
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\MyQQ\MyQQ\obj\Debug\MyQQ.exe
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\MyQQ\MyQQ\obj\Debug\MyQQ.pdb
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\MyQQ\MyQQ\obj\Debug\MyQQ.csprojAssemblyReference.cache
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\MyQQ\MyQQ\obj\Debug\MyQQ.Frm_Register.resources
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\MyQQ\MyQQ\obj\Debug\MyQQ.frm_Main.resources

@@ -1,0 +1,7 @@
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csprojAssemblyReference.cache
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.CoreCompileInputs.cache
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.pdb

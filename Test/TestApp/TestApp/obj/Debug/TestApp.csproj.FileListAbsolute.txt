@@ -1,0 +1,7 @@
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\TestApp\TestApp\bin\Debug\TestApp.exe.config
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\TestApp\TestApp\bin\Debug\TestApp.exe
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\TestApp\TestApp\bin\Debug\TestApp.pdb
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\TestApp\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\TestApp\TestApp\obj\Debug\TestApp.exe
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\TestApp\TestApp\obj\Debug\TestApp.pdb

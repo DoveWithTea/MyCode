@@ -1,0 +1,9 @@
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\DataTypeApplication\DataTypeApplication\obj\Debug\DataTypeApplication.csproj.CoreCompileInputs.cache
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\DataTypeApplication\DataTypeApplication\bin\Debug\DataTypeApplication.exe.config
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\DataTypeApplication\DataTypeApplication\bin\Debug\DataTypeApplication.exe
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\DataTypeApplication\DataTypeApplication\bin\Debug\DataTypeApplication.pdb
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\DataTypeApplication\DataTypeApplication\obj\Debug\DataTypeApplication.exe
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\DataTypeApplication\DataTypeApplication\obj\Debug\DataTypeApplication.pdb
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\DataTypeApplication\DataTypeApplication\bin\Debug\DataTypeApplication.exe.CodeAnalysisLog.xml
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\DataTypeApplication\DataTypeApplication\bin\Debug\DataTypeApplication.exe.lastcodeanalysissucceeded
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\DataTypeApplication\DataTypeApplication\obj\Debug\DataTypeApplication.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\SqlConnDb\bin\Debug\SqlConnDb.dll
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\SqlConnDb\bin\Debug\SqlConnDb.pdb
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\SqlConnDb\obj\Debug\SqlConnDb.csproj.CoreCompileInputs.cache
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\SqlConnDb\obj\Debug\SqlConnDb.dll
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\SqlConnDb\obj\Debug\SqlConnDb.pdb
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\SqlConnDb\obj\Debug\SqlConnDb.csprojAssemblyReference.cache

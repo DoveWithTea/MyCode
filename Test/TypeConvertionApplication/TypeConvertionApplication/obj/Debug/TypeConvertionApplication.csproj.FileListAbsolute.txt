@@ -1,0 +1,7 @@
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\TypeConvertionApplication\TypeConvertionApplication\obj\Debug\TypeConvertionApplication.csprojAssemblyReference.cache
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\TypeConvertionApplication\TypeConvertionApplication\obj\Debug\TypeConvertionApplication.csproj.CoreCompileInputs.cache
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\TypeConvertionApplication\TypeConvertionApplication\bin\Debug\TypeConvertionApplication.exe.config
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\TypeConvertionApplication\TypeConvertionApplication\bin\Debug\TypeConvertionApplication.exe
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\TypeConvertionApplication\TypeConvertionApplication\bin\Debug\TypeConvertionApplication.pdb
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\TypeConvertionApplication\TypeConvertionApplication\obj\Debug\TypeConvertionApplication.exe
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\TypeConvertionApplication\TypeConvertionApplication\obj\Debug\TypeConvertionApplication.pdb

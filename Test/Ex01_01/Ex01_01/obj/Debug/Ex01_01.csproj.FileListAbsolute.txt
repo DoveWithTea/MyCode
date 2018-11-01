@@ -1,0 +1,10 @@
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\Ex01_01\Ex01_01\bin\Debug\Ex01_01.exe.config
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\Ex01_01\Ex01_01\bin\Debug\Ex01_01.exe
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\Ex01_01\Ex01_01\bin\Debug\Ex01_01.pdb
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\Ex01_01\Ex01_01\obj\Debug\Ex01_01.csprojAssemblyReference.cache
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\Ex01_01\Ex01_01\obj\Debug\Ex01_01.Form1.resources
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\Ex01_01\Ex01_01\obj\Debug\Ex01_01.Properties.Resources.resources
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\Ex01_01\Ex01_01\obj\Debug\Ex01_01.csproj.GenerateResource.cache
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\Ex01_01\Ex01_01\obj\Debug\Ex01_01.csproj.CoreCompileInputs.cache
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\Ex01_01\Ex01_01\obj\Debug\Ex01_01.exe
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\Ex01_01\Ex01_01\obj\Debug\Ex01_01.pdb

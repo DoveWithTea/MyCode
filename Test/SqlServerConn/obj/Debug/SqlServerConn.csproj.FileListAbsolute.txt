@@ -1,0 +1,20 @@
+C:\Users\Shine\source\repos\SqlServerConn\bin\Debug\SqlServerConn.exe.config
+C:\Users\Shine\source\repos\SqlServerConn\bin\Debug\SqlServerConn.exe
+C:\Users\Shine\source\repos\SqlServerConn\bin\Debug\SqlServerConn.pdb
+C:\Users\Shine\source\repos\SqlServerConn\obj\Debug\SqlServerConn.csprojAssemblyReference.cache
+C:\Users\Shine\source\repos\SqlServerConn\obj\Debug\SqlServerConn.FormConn.resources
+C:\Users\Shine\source\repos\SqlServerConn\obj\Debug\SqlServerConn.Properties.Resources.resources
+C:\Users\Shine\source\repos\SqlServerConn\obj\Debug\SqlServerConn.csproj.GenerateResource.cache
+C:\Users\Shine\source\repos\SqlServerConn\obj\Debug\SqlServerConn.csproj.CoreCompileInputs.cache
+C:\Users\Shine\source\repos\SqlServerConn\obj\Debug\SqlServerConn.exe
+C:\Users\Shine\source\repos\SqlServerConn\obj\Debug\SqlServerConn.pdb
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\SqlServerConn\bin\Debug\SqlServerConn.exe.config
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\SqlServerConn\bin\Debug\SqlServerConn.exe
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\SqlServerConn\bin\Debug\SqlServerConn.pdb
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\SqlServerConn\obj\Debug\SqlServerConn.FormConn.resources
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\SqlServerConn\obj\Debug\SqlServerConn.Properties.Resources.resources
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\SqlServerConn\obj\Debug\SqlServerConn.csproj.GenerateResource.cache
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\SqlServerConn\obj\Debug\SqlServerConn.csproj.CoreCompileInputs.cache
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\SqlServerConn\obj\Debug\SqlServerConn.exe
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\SqlServerConn\obj\Debug\SqlServerConn.pdb
+E:\Program Files (x86)\Microsoft Visual Studio\AppliCation\SqlServerConn\obj\Debug\SqlServerConn.csprojAssemblyReference.cache
